@@ -1,0 +1,7 @@
+.vscode
+sample.csv
+test.csv
+train.csv
+dataset/*
+catboost_info/*
+models/*
